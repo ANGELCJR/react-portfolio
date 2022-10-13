@@ -113,8 +113,8 @@ a:hover {
 header {
 	background: linear-gradient(
 		90deg,
-		#3187B8,
-		#0d3b58
+		#f7eaff,
+		#4c00ff
 	); 
 
 	/* background: #3187B8; */
@@ -342,8 +342,8 @@ footer {
 	align-items: center;
 	background: linear-gradient(
 		90deg,
-		#3187B8,
-		#0d3b58
+		#ffe3e3,
+		#4c00ff
 	); 
 	/* background: #3187b8; */
 }
@@ -352,7 +352,7 @@ footer {
 	cursor: pointer;
 	list-style: none;
 	font-size: 40px;
-	color: #dd5065;
+	color: #000000;
 }
 
 .logo:hover {
@@ -392,6 +392,7 @@ footer {
 	color: var(--dark);
 }
 
+
 .center a {
 	text-decoration: none;
 	color: var(--quaternary);
@@ -406,6 +407,7 @@ footer {
 	font-weight: bold;
 	font-size: 1.5rem;
 }
+
 
 .center h1 {
 	padding-top: 30px;
